@@ -32,16 +32,26 @@ The output of Instumentation amplifier is given by
 7.	The output voltage is obtained in the Multimeter and the input and output voltage waveforms are plotted in a graph sheet.
 
 
-  **CIRCUIT DIAGRAM**
+  **CIRCUIT DIAGRAM** 
+  
+  <img width="864" height="1152" alt="WhatsApp Image 2026-09-14 at 8 50 50 PM" src="https://github.com/user-attachments/assets/a09ebf9e-3b03-42db-bc0a-fb168f5a0ba0" />
+
 
 
   **MODEL GRAPH:**
+  <img width="1280" height="1160" alt="WhatsApp Image 2026-09-14 at 8 51 22 PM" src="https://github.com/user-attachments/assets/e1fc62f6-44b2-4743-9f74-ffef07cc8dcc" />
+
 
 
   **TABULATION:**
- 
+ <img width="1280" height="832" alt="WhatsApp Image 2026-09-14 at 8 51 02 PM" src="https://github.com/user-attachments/assets/d0cdcb4b-a0e5-4002-a65e-732b8be2c2a1" />
 
-**MODEL CALCULATION:**
+
+  **GRAPH:**
+  
+  <img width="755" height="994" alt="WhatsApp Image 2026-09-14 at 8 51 47 PM" src="https://github.com/user-attachments/assets/5a3683de-5f9b-4010-9bff-b2979bfd898e" />
+
+
 
 
 
